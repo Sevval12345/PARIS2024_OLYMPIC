@@ -1,1 +1,1 @@
-# PARIS2024_OLYMPIC
+# 2024 Paris Yaz Olimpiyatları Madalya Dağılımlarını İnceleme
