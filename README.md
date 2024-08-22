@@ -29,7 +29,7 @@ Projeyi güncelleyerek makine öğrenmesi modellemesini ekleyeceğim. (Devam edi
 Şevval Bağrıyanık - Proje sahibi ve geliştirici
 
 # Lisans
-Bu proje 'Apache License' ltında lisanslanmıştır.
+Bu proje 'Apache License' altında lisanslanmıştır.
 
 # İletişim
 Sorularınız veya geri bildirimleriniz için [sevvalbgrynk@hotmail.com] ile iletişime geçebilirsiniz.
