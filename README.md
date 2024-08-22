@@ -25,3 +25,11 @@ Projeyi güncelleyerek makine öğrenmesi modellemesini ekleyeceğim. (Devam edi
     4. Kutu Grafiği
 * Türkiye üzerine detaylı çalışma
 
+# Katkıda Bulunanlar
+Şevval Bağrıyanık - Proje sahibi ve geliştirici
+
+# Lisans
+Bu proje 'Apache License' ltında lisanslanmıştır.
+
+# İletişim
+Sorularınız veya geri bildirimleriniz için [sevvalbgrynk@hotmail.com] ile iletişime geçebilirsiniz.
